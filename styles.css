@@ -1,0 +1,27 @@
+table {
+	border-collapse: collapse;
+	margin: 20px;
+}
+
+th, td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+th {
+	background-color: #ccc;
+}
+
+input[type="checkbox"] {
+	transform: scale(2);
+	margin: 0;
+	padding: 0;
+}
+
+span {
+	display: block;
+	margin: 10px;
+	font-size: 24px;
+	font-weight: bold;
+}
